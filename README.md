@@ -1,1 +1,2 @@
 # javascript-password-hide-and-show
+# Password Visibility Toggle with Eye Icon This JavaScript code enables a password visibility toggle feature. It switches the password input field between the 'password' and 'text' types on click, allowing users to show or hide their password. The eye icon updates accordingly, showing an open-eye icon when the password is visible and a closed-eye icon when hidden.
