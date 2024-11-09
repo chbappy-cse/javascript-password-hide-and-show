@@ -13,3 +13,28 @@
     align-items: center;
     justify-content: center;
 }
+body{
+    background: #250057;
+}
+.ch-inputbox{
+    background: #fff;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 300px auto;
+    display: flex;
+    align-items: center;
+}
+.ch-inputbox input{
+    width: 100%;
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 24px;
+    color: #555;
+}
+.ch-inputbox img{
+    width: 35px;
+    cursor: pointer;
+}
